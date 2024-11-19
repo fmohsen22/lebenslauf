@@ -9,13 +9,8 @@ body {
 header {
     background: #007BFF;
     color: white;
-    padding: 10px 20px;
+    padding: 20px;
     text-align: center;
-}
-
-header h1 {
-    margin: 0;
-    font-size: 2em;
 }
 
 header nav a {
@@ -38,4 +33,3 @@ footer {
     background: #007BFF;
     color: white;
 }
-
